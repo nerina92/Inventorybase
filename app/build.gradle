@@ -81,7 +81,7 @@ dependencies {
     testImplementation 'androidx.test:core-ktx:1.6.1'
     testImplementation 'androidx.test.ext:junit-ktx:1.2.1'
     //Fragment Testing
-    debugImplementation 'androidx.fragment:fragment-testing-manifest:1.8.5'
+    debugImplementation 'androidx.fragment:fragment-testing:1.8.5'
     //Arch component
     testImplementation 'androidx.arch.core:core-testing:2.2.0'
 
